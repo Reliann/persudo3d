@@ -517,7 +517,7 @@ class Game():
         if keys[K_RIGHT]:
             self.player.moveX(player_seg)
 
-        # x is my text key!
+        # x is my test key!
 
         if keys[K_x]:   
             print(player_seg.index)
